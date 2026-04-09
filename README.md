@@ -68,9 +68,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com foco em engenharia d
 ## Evolução (60 dias)
 
 - Fevereiro/26: SQL básico e primeiras análises
-- Março/26: Pipeline completo na AWS (Churn)
-- Março/26: Streaming com Kafka e Spark
-- Abril/26: Star schema com SuperStore (modelagem dimensional)
+- Março/21: Pipeline completo na AWS (Churn)
+- Abril/09: Star schema com SuperStore (modelagem dimensional)
 
 ---
 
