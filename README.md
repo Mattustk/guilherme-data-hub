@@ -56,9 +56,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com foco em engenharia d
 ## Stack Principal
 
 - **Linguagens:** Python, SQL
-- **Processamento:** PySpark, Pandas
+- **Processamento:** Pandas
 - **Cloud:** AWS (Glue, S3, Lambda)
-- **Streaming:** Kafka (estudos)
 - **Modelagem:** Star Schema, Snowflake
 - **Visualização:** Power BI
 - **Versionamento:** Git, GitHub
