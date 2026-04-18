@@ -1,84 +1,55 @@
- Guilherme Coradini - Portfólio de Engenharia de Dados
+# Guilherme Coradini | Data Projects Hub
 
-![Status](https://img.shields.io/badge/Status-Ativo-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![Spark](https://img.shields.io/badge/Spark-3.5%2B-orange)
-![AWS](https://img.shields.io/badge/AWS-Glue%20%7C%20S3-yellow)
+Portfólio focado em **Análise de Dados e BI**, com projetos práticos de exploração, insights e visualização de dados.  
+Também incluo iniciativas de Engenharia de Dados para demonstrar evolução técnica.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em engenharia de dados. Tenho experiência em construção de pipelines, modelagem dimensional (star schema), orquestração na nuvem e análise de negócio.
+## Projetos em Destaque
 
-**Contato:** [LinkedIn](https://www.linkedin.com/in/guilherme-coradini-7607883ab/) | [GitHub](https://github.com/Mattustk)
+### 01. Churn Insights – Análise de Negócio e Retenção
+**Foco:** Análise exploratória e identificação de oportunidades de retenção de clientes.
 
----
+- Identificação dos principais fatores de churn (método de pagamento e tipo de contrato mensal).
+- Análise de impacto financeiro causado por baixa qualidade no suporte técnico.
+- Propostas concretas de ação para redução de churn e aumento de retenção.
 
-## Projetos
+🔗 [Ver Repositório - Churn Insights](https://github.com/Mattustk/Projeto-Churn-Insights)
 
-### 1. Pipeline de Churn na AWS
+### 02. GeneralStore – Análise de Rentabilidade e Risco Geográfico
+**Foco:** Análise de concentração de receita e oportunidades de expansão internacional.
 
-**Tecnologias:** PySpark, AWS Glue, S3, Parquet, Workflows
+- Descoberta de alta dependência da Zona do Euro (93,17% do faturamento total).
+- Identificação de risco elevado em mercados com forte concentração de clientes (ex: Países Baixos).
+- Recomendação de diversificação para mercados como Singapura, Canadá e Japão.
 
-- Pipeline automatizado com arquitetura medalhão (bronze/silver/gold)
-- Tratamento de dados (nulos, duplicatas, idempotência)
-- Feature engineering (Qtd_Servicos, TotalCharges_Pipeline)
-- Otimização com formato Parquet e workflows no AWS Glue
+🔗 [Ver Repositório - GeneralStore](https://github.com/Mattustk/Insights-GeneralStore)
 
-[Repositório do Pipeline](https://github.com/Mattustk/Projeto-churn) | [Repositório de Insights](https://github.com/Mattustk/Projeto-Churn-Insights)
+### 03. AWS Data Pipeline – Churn (Engenharia de Dados)
+**Foco:** Construção de infraestrutura para suportar análises confiáveis.
 
----
+- Pipeline end-to-end na AWS com arquitetura Medalhão (Bronze → Silver → Gold).
+- Orquestração automatizada com AWS Glue Workflows.
+- Transformações com Pandas e otimização com formato Parquet.
 
-### 2. Análise de Churn (Insights de Negócio)
+🔗 [Ver Repositório - Pipeline AWS](https://github.com/Mattustk/Projeto-churn)
 
-**Tecnologias:** Power BI, Python (Pandas), SQL
+### 04. SuperStore – Modelagem Dimensional (Star Schema)
+**Foco:** Preparação de dados para análise avançada.
 
-- Identificação de padrões de cancelamento (contratos mensais, fibra óptica, boleto)
-- Cruzamento de dados para encontrar causa raiz do problema
-- Proposta de ação: bonificação para migração de pagamento e suporte técnico
-- R$ 142M em receita perdida identificada e analisada
+- Implementação de Star Schema com surrogate keys.
+- Garantia de integridade referencial entre Fact e Dimension Tables.
+- Dados modelados e otimizados para consumo em Power BI.
 
-[Repositório de Insights](https://github.com/Mattustk/Projeto-Churn-Insights)
+🔗 [Ver Repositório - Star Schema](https://github.com/Mattustk/SuperStore)
 
----
+## Stack Técnica
 
-### 3. Star Schema com SuperStore
+- **Análise de Dados:** Python (Pandas), SQL
+- **BI & Visualização:** Power BI (DAX, dashboards interativos, storytelling)
+- **Engenharia de Dados:** AWS (Glue, S3, Workflows), Pandas
+- **Modelagem:** Star Schema, Modelagem Dimensional
 
-**Tecnologias:** Python (Pandas), SQL Server, Power BI
+## Minha Evolução
 
-- Modelagem dimensional completa (star schema)
-- Criação de dimensões com surrogate keys (sk_)
-- Tabela fato com métricas e chaves estrangeiras
-- Validação de integridade referencial (assert)
-- Diagrama do modelo no Power BI
-
-[Repositório do Projeto](https://github.com/Mattustk/projeto-vendas-streaming)
-
----
-
-## Stack Principal
-
-- **Linguagens:** Python, SQL
-- **Processamento:** Pandas
-- **Cloud:** AWS (Glue, S3, Lambda)
-- **Modelagem:** Star Schema, Snowflake
-- **Visualização:** Power BI
-- **Versionamento:** Git, GitHub
-
----
-
-## Evolução (60 dias)
-
-- Fevereiro/26: SQL básico e primeiras análises
-- Março/21: Pipeline completo na AWS (Churn)
-- Abril/09: Star schema com SuperStore (modelagem dimensional)
-
----
-
-## Objetivo
-
-Busco uma oportunidade de estágio em engenharia de dados onde possa aplicar meus conhecimentos em pipelines, modelagem e qualidade de dados, além de continuar evoluindo com desafios reais.
-
----
-
-## Vamos conversar?
-
-[LinkedIn](https://www.linkedin.com/in/guilherme-coradini-7607883ab/)
-[GitHub](https://github.com/Mattustk)
+- **Fevereiro 2026:** Início em SQL e primeiras análises exploratórias
+- **Março 2026:** Construção do primeiro pipeline completo na AWS
+- **Abril 2026:** Análises estratégicas de churn e risco geográfico + modelagem dimensional
