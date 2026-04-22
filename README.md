@@ -52,4 +52,4 @@ Também incluo iniciativas de Engenharia de Dados para demonstrar evolução té
 
 - **Fevereiro 2026:** Início em SQL e primeiras análises exploratórias
 - **Março 2026:** Construção do primeiro pipeline completo na AWS
-- **Abril 2026:** Análises estratégicas de churn e risco geográfico + modelagem dimensional
+- **Abril 2026:** Análises estratégicas de risco geográfico + modelagem dimensional
