@@ -77,4 +77,4 @@ Sem dados misturados. O sistema garante o isolamento total das informações: a 
 
 - **Fevereiro 2026:** Início em SQL e primeiras análises exploratórias
 - **Março 2026:** Construção do primeiro pipeline completo na AWS
-- **Abril 2026:** Análises estratégicas de risco geográfico + modelagem dimensional
+- **Abril 2026:** Unified Pipeline Cloud + Análises estratégicas de risco geográfico + Star Schema 
