@@ -6,6 +6,7 @@ Também incluo iniciativas de Engenharia de Dados para demonstrar evolução té
 ## Projeto em Destaque
 
 **Unified Pipeline Cloud**
+
 A espinha dorsal de dados entre Tecnologia e Varejo
 
 - O Nexus Data Pipeline unifica as operações da Nexus Tech e Nexus Retail em um único ecossistema Cloud. Ele acaba com o pesadelo das planilhas manuais: o sistema ingere os dados brutos de vendas, corrige erros automaticamente e entrega inteligência de negócio validada de forma 100% autônoma.
@@ -25,7 +26,9 @@ Sem dados misturados. O sistema garante o isolamento total das informações: a 
 
 
 
-**Outros Projetos**
+## Outros Projetos
+
+
  
 ### 01. Churn Insights – Análise de Negócio e Retenção
 **Foco:** Análise exploratória e identificação de oportunidades de retenção de clientes.
