@@ -3,8 +3,30 @@
 Portfólio focado em **Análise de Dados e BI / Engenharia de Dados**, com projetos práticos de exploração, insights e visualização de dados.  
 Também incluo iniciativas de Engenharia de Dados para demonstrar evolução técnica.
 
-## Projetos em Destaque
+## Projeto em Destaque
 
+**Unified Pipeline Cloud**
+A espinha dorsal de dados entre Tecnologia e Varejo
+
+- O Nexus Data Pipeline unifica as operações da Nexus Tech e Nexus Retail em um único ecossistema Cloud. Ele acaba com o pesadelo das planilhas manuais: o sistema ingere os dados brutos de vendas, corrige erros automaticamente e entrega inteligência de negócio validada de forma 100% autônoma.
+
+ O que o sistema entrega na prática?
+- RH (Folha e Comissões): Zero cálculo manual. O código cruza as vendas, calcula os 5% de comissão, bloqueia transações sem ID do vendedor e entrega um CSV blindado, pronto para rodar a folha de pagamento.
+
+- Financeiro (Auditoria e Balanço): Fechamento à prova de balas. O sistema atua como um escudo, barrando valores negativos ou zerados, e consolida faturamento e custos das duas holdings em um arquivo unificado para o ERP.
+
+- Diretoria & Marketing (Estratégia): Visão direta de ROI. Rankings automáticos dos produtos de maior sucesso (ex: PCs Gamers vs. Consultoria) prontos para alimentar imediatamente os Dashboards de BI.
+
+Governança e Segurança
+Sem dados misturados. O sistema garante o isolamento total das informações: a vitrine de dados separa fisicamente o que é do RH e o que é do Financeiro, disponibilizando relatórios altamente confiáveis para download em segundos.
+
+
+
+
+
+
+**Outros Projetos**
+ 
 ### 01. Churn Insights – Análise de Negócio e Retenção
 **Foco:** Análise exploratória e identificação de oportunidades de retenção de clientes.
 
