@@ -1,7 +1,6 @@
 # Guilherme Coradini | Data Projects Hub
 
-Portfólio focado em **Análise de Dados e BI / Engenharia de Dados**, com projetos práticos de exploração, insights e visualização de dados.  
-Também incluo iniciativas de Engenharia de Dados para demonstrar evolução técnica.
+Neste portfólio, apresento soluções ponta a ponta, com foco no desenvolvimento de Pipelines de Dados escaláveis e análises de BI de alto impacto.
 
 ## Projeto em Destaque
 
