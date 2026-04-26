@@ -2,7 +2,7 @@
 
 Neste portfólio, apresento soluções ponta a ponta, com foco no desenvolvimento de Pipelines de Dados escaláveis e análises de BI de alto impacto.
 
-## Projeto em Destaque
+## ⭐ Projeto em Destaque
 
 **Unified Pipeline Cloud**
 
