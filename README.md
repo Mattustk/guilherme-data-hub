@@ -2,6 +2,12 @@
 
 Neste portfólio, apresento soluções ponta a ponta, com foco no desenvolvimento de Pipelines de Dados escaláveis e análises de BI de alto impacto.
 
+## Minha Evolução
+
+- **Fevereiro 2026:** Início em SQL e primeiras análises exploratórias
+- **Março 2026:** Construção do primeiro pipeline completo na AWS
+- **Abril 2026:** Unified Pipeline Cloud + Análises estratégicas de risco geográfico + Star Schema 
+
 ## ⭐ Projeto em Destaque
 
 **Unified Pipeline Cloud**
@@ -71,9 +77,3 @@ Sem dados misturados. O sistema garante o isolamento total das informações: a 
 - **BI & Visualização:** Power BI (DAX, dashboards interativos, storytelling)
 - **Engenharia de Dados:** AWS (Glue, S3, Workflows), Pandas
 - **Modelagem:** Star Schema, Modelagem Dimensional
-
-## Minha Evolução
-
-- **Fevereiro 2026:** Início em SQL e primeiras análises exploratórias
-- **Março 2026:** Construção do primeiro pipeline completo na AWS
-- **Abril 2026:** Unified Pipeline Cloud + Análises estratégicas de risco geográfico + Star Schema 
